@@ -1,0 +1,10 @@
+*.idea/
+*.pyc
+*env/
+*db.sqlite3
+*.db
+*.ipynb_checkpoints
+
+media/*
+
+production.json
